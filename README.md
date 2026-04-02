@@ -83,4 +83,4 @@ El proyecto fue desarrollado con fines académicos, priorizando la correcta impl
 
 ## Authors
 
-- [@octokatherine](https://github.com/Daniel-blago)
+- [@DanielBlacio](https://github.com/Daniel-blago)
