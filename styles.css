@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
+.title {
+    text-align: center; 
+}
+
+.nav {
+  background-color: lightskyblue;
+  display: flex;          
+  justify-content: space-around; 
+  align-items: center;   
+  padding: 10px 0;
+flex-direction: column;
+}
+.nav a {
+font-family:"Akaya Kanadaka", system-ui;    
+color: white;            
+  text-decoration: none;  
+  padding: 0.4px 15px;      
+  font-weight: bold;       
+  transition: background 0.4s,color 0.3s;
+}
+.nav a:hover{
+    color:darkseagreen
+}
+
+
+.imagen-yo{
+    width: 120px;
+    height: auto;
+    max-width: 100%;
+    border-radius: 50%;
+    border: 3px solid lightskyblue;
+    object-fit: cover;
+    margin-left: 10px;
+}
+
+   #acerca-de-mi{
+    display: inline-block;
+    width: 80%;
+    margin-left: 30px;
+    
+}
+
+body{
+    background-color:antiquewhite;
+    
+}
+
+form{
+font-family: "Akaya Kanadaka", system-ui; 
+margin-top: 30px;
+padding: 0 15px;
+background-color: lightskyblue;
+    
+}
+.requerir{
+   display: inline-block;
+    width: 100%;
+    margin-left: 0;  
+}
+#requerimiento{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 9px;
+}
+button {
+  display: block;
+  margin: 20px auto;
+  width: 25%;
+  padding: 15px;
+  font-size: 20px;
+  background:darkseagreen ;
+  border: 3px solid grey;
+}
+
+p,h2,ul,li {
+    font-family: "Akaya Kanadaka", system-ui;   
+}
+
+@media (min-width: 768px) {
+    .nav{
+        flex-direction: row;
+    
+   
+    }
+    
+}
+
+
+/* FOOTER*/
+.Redes-sociales,a{
+    text-decoration:none;
+}
+a:active{
+    color:darkseagreen
+
+}
+a:hover{
+    
+     color:darkseagreen
+    
+}
