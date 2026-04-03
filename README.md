@@ -41,8 +41,11 @@ El sitio está construido utilizando etiquetas semánticas obligatorias:
 
 ---
 ## Capturas de evidencias
-Se adjuntan, capturas de pantalla, donde se evidencia la funcionalidad del sitio web:
+Se adjuntan capturas de pantalla, donde se evidencia la funcionalidad del sitio web:
 
+![inicio](img/Inicio.png)
+![Body](img/Body.png)
+![Footer](img/Footer.png)
 
 ##  Estilos (CSS)
 
