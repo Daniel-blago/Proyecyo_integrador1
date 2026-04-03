@@ -40,6 +40,9 @@ El sitio está construido utilizando etiquetas semánticas obligatorias:
 * Imagen de perfil cargada desde una URL externa
 
 ---
+## Capturas de evidencias
+Se adjuntan, capturas de pantalla, donde se evidencia la funcionalidad del sitio web:
+
 
 ##  Estilos (CSS)
 
